@@ -234,7 +234,8 @@ function create_config( )
 	"msg_checks",
 	"savepl",
 	"sendp",
-	"lang"
+	"lang",
+	"on-off"
     },
     sudo_users = {238773538},--Sudo users
     moderation = {data = 'data/moderation.json'},
