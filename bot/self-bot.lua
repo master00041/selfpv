@@ -240,7 +240,7 @@ Mute-Team and Self-Bot 2lang 🤖👥
 
 👤 developer : @MutePuker 
 
-📢 channel : @MuteTam
+📢 channel : @MuteTeam
 
 📡 github : https://github.com/MutePuker/self-bot
 ]],
