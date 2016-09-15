@@ -13,6 +13,8 @@ chmod +x launch.sh
 <b>/add</b> 
 را ارسال كنيد !
 
-[👤developer](https://telegram.me/MutePuker)
+[developer👤](https://telegram.me/MutePuker)
 
-[📢channel](https://telegram.me/MutePuker)
+[channel📢](https://telegram.me/MutePuker)
+
+The stars do not ! ;)
