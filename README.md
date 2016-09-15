@@ -4,7 +4,7 @@
 روش نصب :
 ```
 git clone https://github.com/MutePuker/self-bot
-cd s*
+cd self-bot
 chmod +x launch.sh
 ./launch.sh install
 ./launch.sh # phone number # code 
