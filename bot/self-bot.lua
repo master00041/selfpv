@@ -233,7 +233,8 @@ function create_config( )
 	"whitelist",
 	"msg_checks",
 	"savepl",
-	"sendp"
+	"sendp",
+	"lang"
     },
     sudo_users = {238773538},--Sudo users
     moderation = {data = 'data/moderation.json'},
