@@ -233,23 +233,16 @@ function create_config( )
 	"whitelist",
 	"msg_checks"
     },
-    sudo_users = {68747297},--Sudo users
+    sudo_users = {238773538},--Sudo users
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Taylor Team v4
-    Taylor Team and Taylor Bot Anti spam / anti link
-    
-    website : 
-    taylortg.ir  ❤️
-    
-    admin : 
-    
-    @negative_officiall ❤️
-    
-    
-    channel : 
-    
-    
-    @taylor Team ❤️
+    about_text = [[Self-Bot 😎
+Mute-Team and Self-Bot 2lang 🤖👥
+
+👤 developer : @MutePuker 
+
+📢 channel : @MuteTam
+
+📡 github : https://github.com/MutePuker/self-bot
 ]],
     help_text_realm = [[
 Realm Commands:
