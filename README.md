@@ -18,3 +18,6 @@ chmod +x launch.sh
 [channel📢](https://telegram.me/MutePuker)
 
 The stars do not ! ;)
+
+
+Based on Taylor-Team
