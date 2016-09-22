@@ -237,7 +237,7 @@ function create_config( )
 	"lang",
 	"on-off"
     },
-    sudo_users = {238773538},--Sudo users
+    sudo_users = {170172168},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[Self-Bot 😎
 Mute-Team and Self-Bot 2lang 🤖👥
